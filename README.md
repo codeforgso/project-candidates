@@ -1,3 +1,3 @@
 # CfG Project Candidates
 
-This is a running tally of project ideas proposed at our meetings.
+This repository houses a wiki of project candidates gathered at CfG meetings. You can view the wiki [here](https://github.com/codeforgso/project-candidates/wiki).
